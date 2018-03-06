@@ -1,0 +1,7 @@
+= JPA starter project
+
+This is simple project for begginers who want to start with learning JPA.
+
+.After cloning this repository you have to:
+. Uncomment or add in pom.xml apropriate database driver.
+. Set database connection parameters and right SQL Dialect in persistence.xml.
